@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/elast/static/css/main.d8fc9136.css",
+    "main.js": "/elast/static/js/main.d1dba9c6.js",
+    "static/media/icon.png": "/elast/static/media/icon.d9d31c64c97b9f3526e6.png",
+    "index.html": "/elast/index.html",
+    "main.d8fc9136.css.map": "/elast/static/css/main.d8fc9136.css.map",
+    "main.d1dba9c6.js.map": "/elast/static/js/main.d1dba9c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8fc9136.css",
+    "static/js/main.d1dba9c6.js"
+  ]
+}
