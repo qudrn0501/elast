@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "files": ["3DR.js"],
+      "rules": {
+        "no-unused-expressions": "off"
+      }
+    }
+  ]
+}
